@@ -10,7 +10,7 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
-![Keystion's github stats](https://github-readme-stats.vercel.app/api?username=keystion&theme=radical&show_icons=true&card_width=425&line_height=28.8) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keystion&hide=AppleScript&theme=radical&card_width=350&disable_animations=false&hide_title=true)
+![Keystion's github stats](https://github-readme-stats.vercel.app/api?username=keystion&theme=radical&show_icons=true&card_width=420&line_height=28.8) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keystion&hide=AppleScript&theme=radical&card_width=350&disable_animations=false&hide_title=true)
 
  `☀、丶❤" ½ 、✿  Time is money. Less is more !`
 <!--
