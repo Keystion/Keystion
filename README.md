@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Visits since May 30th, 2023: ![Visits](https://profile-counter.glitch.me/Keystion/count.svg)
+Visits since May 30th, 2023: 
+
+![Visits](https://profile-counter.glitch.me/Keystion/count.svg)
