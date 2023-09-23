@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=false&vCenter=true&width=430&lines=%F0%9F%91%8B+Hi+there%2C+I+am+Key.)](https://git.io/typing-svg)
 
+<!--
+
 # Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -12,12 +14,12 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
-<!-- ![Keystion's github stats](https://github-readme-stats.vercel.app/api?username=keystion&theme=radical&show_icons=true&card_width=320&line_height=28.8) -->
+![Keystion's github stats](https://github-readme-stats.vercel.app/api?username=keystion&theme=radical&show_icons=true&card_width=320&line_height=28.8)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keystion&hide=AppleScript&theme=radical&card_width=320&disable_animations=false&hide_title=true)
 
  `☀、丶❤" ½ 、✿  Time is money. Less is more !`
-<!--
+
 **Keystion/Keystion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,8 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Visits since May 30th, 2023: 
 
 ![Visits](https://profile-counter.glitch.me/Keystion/count.svg)
+-->
